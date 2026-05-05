@@ -1,6 +1,11 @@
 # AI-Agent-MCN-Solution
 ## 🔗 飞书自动化接入说明（基于 Coze + 飞书官方插件）
 
+   ---
+## 🔗 飞书自动化写入效果演示
+[点击查看 AI 自动生成的脚本飞书文档](https://my.feishu.cn/docx/SlA8dbc43oDet7xC3Bmcjdconpd?from=from_copylink)
+
+
 本项目采用 **Coze（扣子）无代码工作流** 串联大模型生成与飞书文档存档，实现"输入 Brief → 自动产出脚本 → 自动落库到飞书云文档"的端到端闭环。以下是完整复现步骤：
 
 ### 步骤 1 · 在 Coze 创建 Bot
